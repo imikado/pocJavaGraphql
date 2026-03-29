@@ -1,0 +1,10 @@
+org/dupot/graphql/infrastructure/graphql/mutation/AuthMutation.class
+org/dupot/graphql/infrastructure/graphql/AuthInterceptor.class
+org/dupot/infrastructure/model/FolderModel.class
+org/dupot/infrastructure/model/UserModel.class
+org/dupot/domain/entity/Folder.class
+org/dupot/graphql/infrastructure/graphql/query/FolderQuery.class
+org/dupot/infrastructure/security/JwtUtil.class
+org/dupot/graphql/GraphqlApplication.class
+org/dupot/domain/entity/User.class
+org/dupot/graphql/ServletInitializer.class

@@ -1,0 +1,14 @@
+type Query {
+  getFolders: [Folder]
+}
+
+type Mutation {
+  login(login: String!, password: String!): String
+}
+
+type Folder {
+  id: Int
+  name: String
+  userId: Int
+}
+
